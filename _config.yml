@@ -25,7 +25,6 @@ author:
   # Biographic information
   avatar           : "/images/portfolio_photo_avatar.jpg"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Durham, NC"
   employer         : "JMT"
