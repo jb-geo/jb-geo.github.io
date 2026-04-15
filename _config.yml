@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/portfolio_photo_avatar.jpg"
+  avatar           : "/portfolio_photo.jpg"
   name             : "Justin Baker"
   bio              : "I am a GIS professional experienced in mapping, data automation, and data visualization, with a track record supporting EPA and utility projects. Skilled in Python workflows, web app configuration, and project collaboration. Currently growing my remote sensing and machine learning skills."
   location         : "Durham, NC"
