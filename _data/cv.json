@@ -33,29 +33,29 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "North Carolina State University",
+      "area": "Graduate Certificate in Geographic Information Systems",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Royal Institute of Technology",
+      "area": "Graduate Coursework in Sustainable Urban Planning and Design",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
+      "endDate": "2016",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Appalachian State University",
+      "area": "B.S. in Appropriate Technology",
       "studyType": "",
       "startDate": "",
-      "endDate": "2012",
+      "endDate": "2013",
       "gpa": null,
       "courses": []
     }
