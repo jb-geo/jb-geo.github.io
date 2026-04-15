@@ -24,8 +24,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "images/portfolio_photo_avatar.jpg"
-  name             : "Your Sidebar Name"
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Justin Baker"
+  bio              : "I am a GIS professional experienced in mapping, data automation, and data visualization, with a track record supporting EPA and utility projects. Skilled in Python workflows, web app configuration, and project collaboration. Currently growing my remote sensing and machine learning skills."
   location         : "Durham, NC"
   employer         : "JMT"
   uri              : # URL
