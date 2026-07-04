@@ -25,8 +25,15 @@ freeze-up and breakup?
 
 ### Results
 
-(Add figures)
+![Time Series](/images/ice_area_2024_2025.png)
 
 ### Repository
 
 [View Code](https://github.com/...)
+
+## Full Technical Report
+
+This project also includes a longer technical write-up
+covering methodology, results, interpretation, and discussion.
+
+[Read Full Report](/files/river-ice-report.pdf)
