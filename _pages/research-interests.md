@@ -7,23 +7,19 @@ redirect_from:
   - /research-interests.html
 ---
 
-Remote Sensing
-======
+## Remote Sensing
 
 Short paragraph.
 
-Environmental Monitoring
-======
+## Environmental Monitoring
 
 Short paragraph.
 
-Computational Spatial Analysis
-======
+## Computational Spatial Analysis
 
 Short paragraph.
 
-Emerging Interests
-======
+## Emerging Interests
 Machine learning
 Arctic systems
 Geospatial intelligence
