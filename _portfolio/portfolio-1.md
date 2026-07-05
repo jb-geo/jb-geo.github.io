@@ -26,6 +26,7 @@ freeze-up and breakup?
 ### Results
 
 ![Time Series](/images/ice_area_2024_2025.png)
+ - Time Series
 
 ### Repository
 
