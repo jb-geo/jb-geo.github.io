@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Justin Baker"
-subtitle: "Geospatial Analyst | GIS, Remote Sensing, and Data Science"
+title: "Research Interests"
 author_profile: true
 redirect_from: 
   - /research-interests/
