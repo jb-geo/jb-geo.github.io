@@ -30,7 +30,7 @@ freeze-up and breakup?
 
 ![Time Series](/images/river-ice/ice_area_2024_2025.png)
 ![VV Backscatter](/images/river-ice/histogram_jan_2023.png)
-![Ice Classification](/images/river-ice/ice_classification_2023.png)
+![Ice Classification](/images/river-ice/ice_classification_jan_2023.png)
 
 
 ### Repository
