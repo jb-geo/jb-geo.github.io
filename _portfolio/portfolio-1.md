@@ -5,6 +5,8 @@ excerpt: "Using Sentinel-1 SAR imagery to investigate seasonal river ice dynamic
 header:
   teaser: /images/river-ice/brigachtal-yukon-495348.png
 collection: portfolio
+author_profile: true
+
 ---
 
 ## Project Overview
@@ -26,7 +28,7 @@ freeze-up and breakup?
 
 ### Results
 
-![Time Series](/images/ice_area_2024_2025.png)
+![Time Series](/images/river-ice/ice_area_2024_2025.png)
 
 ### Repository
 
