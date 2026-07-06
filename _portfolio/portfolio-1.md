@@ -1,9 +1,9 @@
 ---
 title: "Monitoring Seasonal River Ice Dynamics Using Sentinel-1 SAR"
-excerpt: "Using Sentinel-1 SAR imagery to investigate seasonal river ice dynamics.<br/><img src='/images/river-ice/brigachtal-yukon-495348.png'>"
+excerpt: "Using Sentinel-1 SAR imagery to investigate seasonal river ice dynamics.<br/><img src='/images/river-ice/brigachtal-yukon-495348.jpg'>"
 
 header:
-  teaser: /images/river-ice/brigachtal-yukon-495348.png
+  teaser: /images/river-ice/brigachtal-yukon-495348.jpg
 collection: portfolio
 author_profile: true
 
