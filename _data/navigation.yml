@@ -17,17 +17,5 @@ main:
   - title: "Research Interests"
     url: /research-interests/    
     
-  - title: "Methods/Workflow"
-    url: /methods-workflow/
-        
-  - title: "Writing"
-    url: /writing/
-    
   - title: "CV"
     url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
