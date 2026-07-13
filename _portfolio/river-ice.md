@@ -33,11 +33,11 @@ freeze-up and breakup?
 
 ### Repository
 
-[View Code](https://github.com/...)
+[View Code](https://github.com/jb-geo/ice-and-open-water-classification/blob/main/notebooks/ice_monitoring.ipynb)
 
 ## Full Technical Report
 
 This project also includes a longer technical write-up
 covering methodology, results, interpretation, and discussion.
 
-[Read Full Report](/files/river-ice-report.pdf)
+[Read Full Report](/files/monitoring-seasonal-river-ice-dynamics.pdf)
