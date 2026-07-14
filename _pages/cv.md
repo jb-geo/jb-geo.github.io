@@ -57,5 +57,5 @@ resources to provide accurate data updates to client systems
   
 Resume
 ======
-Link to resume
+![Resume](/files/JB_Resume_Grad.pdf)
 
