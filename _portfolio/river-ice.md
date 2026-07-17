@@ -1,6 +1,6 @@
 ---
 title: "Monitoring Seasonal River Ice Dynamics Using Sentinel-1 SAR"
-excerpt: "Using Sentinel-1 SAR imagery to investigate seasonal river ice dynamics at the Yukon-Tanana Confluence.<img src='/images/river-ice/your-image.jpg' style='display:block; margin-top:15px;' width='518'>"
+excerpt: "Using Sentinel-1 SAR imagery to investigate seasonal river ice dynamics at the Yukon-Tanana Confluence.<div style='margin-top:15px;'><img src='/images/river-ice/your-image.jpg' width='518'></div>"
 collection: portfolio
 order: 1
 author_profile: true
