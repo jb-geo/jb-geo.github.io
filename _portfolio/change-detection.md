@@ -21,6 +21,14 @@ Comparing NDVI between years provides a simple yet effective indicator of vegeta
 
 ### Results
 
+#### Interpretation
+
+Positive ΔNDVI values indicate increased vegetation density between 2016 and 2024.
+
+Negative values indicate vegetation loss.
+
+Around the Port of Savannah, vegetation loss is expected near recently developed industrial infrastructure, while localized gains may occur in restored or unmanaged areas.
+
 ### Repository
 
 [View Code](https://github.com/jb-geo/savannah-port-change-detection/blob/main/notebooks/raster_analysis.ipynb)
