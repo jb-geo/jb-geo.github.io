@@ -7,6 +7,14 @@ order: 2
 
 ## Project Overview
 
+### Why NDVI?
+
+NDVI measures vegetation vigor using the contrast between near-infrared reflectance and red reflectance.
+
+Healthy vegetation strongly reflects NIR while absorbing red light, producing high NDVI values.
+
+Comparing NDVI between years provides a simple yet effective indicator of vegetation gain or loss associated with urban expansion.
+
 ### Research Question
 
 ### Methods
