@@ -87,7 +87,7 @@ Three maps
 
 2024
 
-####ΔNDVI
+#### ΔNDVI
 
 One large figure
 
