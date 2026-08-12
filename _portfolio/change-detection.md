@@ -1,6 +1,6 @@
 ---
-title: "Savannah Port Change Detection"
-excerpt: "Performing a change detection analysis on raster imagery of Savannah, Georgia. <br/><img src='/images/change-detection/pexels-attie-9296993.jpg' width='518' height='346'>"
+title: "Detecting Vegetation Change Around the Port of Savannah (2016-2024)"
+excerpt: "Evaluate changes in vegetation surrounding the Port of Savannah using multi-temporal Sentinel-2 imagery and NDVI. <br/><img src='/images/change-detection/pexels-attie-9296993.jpg' width='518' height='346'>"
 collection: portfolio
 order: 2
 ---
@@ -72,6 +72,48 @@ RGB composites and NDVI-based figures are generated using Matplotlib.
 
 The RGB composites provide visual context for interpreting the changes identified by the analysis.
 ### Results
+
+#### RGB Imagery
+
+Three images showing
+
+2016
+
+↓
+
+2020
+
+↓
+
+2024
+
+NDVI
+
+Three maps
+
+2016
+
+↓
+
+2020
+
+↓
+
+2024
+
+#### ΔNDVI
+
+One large figure
+
+Use a diverging color ramp
+
+Red = vegetation loss
+
+Green = vegetation gain
+
+#### Histogram
+
+### Discussion
 
 ### Repository
 [View Code](https://github.com/jb-geo/savannah-port-change-detection/blob/main/notebooks/raster_analysis.ipynb)
