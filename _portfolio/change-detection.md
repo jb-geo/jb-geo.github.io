@@ -75,14 +75,14 @@ The RGB composites provide visual context for interpreting the changes identifie
 ## Results
 
 ### RGB Imagery
-![RGB 2016](/outputs/figures/river-ice/rgb_2016.png)
-![RGB 2024](/outputs/figures/river-ice/rgb_2024.png)
+![RGB 2016](/images/change-detection/rgb_2016.png)
+![RGB 2024](/images/change-detection/river-ice/rgb_2024.png)
 
 ### NDVI
-![Distribution of Vegetation Change](/outputs/figures/river-ice/delta_ndvi.png)
+![Distribution of Vegetation Change](/images/change-detection/river-ice/delta_ndvi.png)
 
 ### Histogram
-![Δ Histogram](/outputs/figures/delta_histogram.png)
+![Δ Histogram](/images/change-detection/delta_histogram.png)
 
 ## Discussion
 
