@@ -75,44 +75,14 @@ The RGB composites provide visual context for interpreting the changes identifie
 ## Results
 
 ### RGB Imagery
+![RGB 2016](/outputs/figures/river-ice/rgb_2016.png)
+![RGB 2024](/outputs/figures/river-ice/rgb_2024.png)
 
-Three images showing
-
-2016
-
-↓
-
-2020
-
-↓
-
-2024
-
-NDVI
-
-Three maps
-
-2016
-
-↓
-
-2020
-
-↓
-
-2024
-
-### ΔNDVI
-
-One large figure
-
-Use a diverging color ramp
-
-Red = vegetation loss
-
-Green = vegetation gain
+### NDVI
+![Distribution of Vegetation Change](/outputs/figures/river-ice/delta_ndvi.png)
 
 ### Histogram
+![Δ Histogram](/outputs/figures/delta_histogram.png)
 
 ## Discussion
 
