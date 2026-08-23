@@ -84,7 +84,12 @@ The RGB composites provide visual context for interpreting the changes identifie
 ### Histogram
 ![Distribution of Vegetation Change](/images/change-detection/delta_histogram.png)
 
-## Discussion
+## Conclusion
+This analysis used multi-temporal Sentinel-2 imagery to examine vegetation change around the Port of Savannah between 2016 and 2024. Mean NDVI declined from 0.288 in 2016 to 0.250 in 2024, while the overall mean ΔNDVI was -0.021. Across the valid pixels in the study area, 58.9% showed a decrease in NDVI compared with 41.1% showing an increase.
+
+The spatial distribution of change shows that vegetation loss was concentrated in several developed and industrial areas, while increases in NDVI occurred in portions of the surrounding vegetated landscape. This demonstrates how multispectral imagery can be used to identify and visualize spatial patterns of landscape change that may not be apparent from aerial imagery alone.
+
+Because the analysis compares three individual image dates rather than a continuous time series, some of the observed differences may reflect seasonal and environmental conditions in addition to actual land-cover change. The results should therefore be interpreted as an example of spatial vegetation change detection rather than a definitive measure of long-term vegetation loss.
 
 ### Repository
 [View Code](https://github.com/jb-geo/savannah-port-change-detection/blob/main/notebooks/raster_analysis.ipynb)
