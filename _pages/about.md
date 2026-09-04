@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a geospatial analyst with experience building spatial data products, automating geoprocessing workflows, and developing web-based geospatial applications across environmental and infrastructure domains. My work sits at the intersection of remote sensing, spatial analysis, and computational methods, with a growing focus on extracting insights from Earth observation data to better understand environmental and societal systems.
+I am a geospatial analyst with experience building spatial data products, automating geoprocessing workflows, and developing web-based geospatial applications across environmental and infrastructure domains.
 
-One theme that continues to shape my interests is understanding how spatial data can reveal patterns that are difficult to observe directly, whether through environmental monitoring, infrastructure systems, or broader questions involving human behavior and geographic change.
+One theme that continues to shape my interests is understanding how spatial data can reveal patterns that are difficult to observe directly, whether through environmental monitoring, infrastructure change detection, or evaluating broader interactions between human behavior and geographic change.
 
 Outside of my professional experience, I have pursued independent remote sensing projects focused on developing stronger analytical and research skills. These projects, such as the one exploring seasonal river ice dynamics using Sentinel-1 SAR imagery, combine Earth observation data, reproducible workflows, and quantitative interpretation to investigate environmental change through time. Examples of this work can be found in the Portfolio section of this website.
 
