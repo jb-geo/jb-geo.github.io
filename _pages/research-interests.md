@@ -5,10 +5,29 @@ redirect_from:
   - /research-interests/
   - /research-interests.html
 ---
-I’m interested in the information that can be extracted from satellite observations and how it can be used to better understand dynamic earth processes. While I enjoy producing clear and informative maps, I am increasingly interested in developing methods that can transform remotely sensed imagery into quantitative information that supports scientific understanding and decision making.
+I am interested in using remote sensing and geospatial methods to study how physical environments influence human activity, infrastructure, transportation, and geopolitical behavior. 
 
-My current interests include Arctic environmental systems, land cover dynamics, natural hazards, and the impacts of climate change. I am particularly fascinated by how environmental change influences human systems. For example, the loss of Arctic sea ice is creating new shipping routes and reshaping geopolitical relationships, while increasing wildfire activity and sea level rise continue to affect migration, infrastructure, and long-term planning. I am interested in using Earth observation data to better understand these interactions between environmental change and human-decision making.
+Research Questions:
 
-My research approach combines geospatial analysis, remote sensing, and computational methods to investigate environmental processes at multiple spatial and temporal scales. I am particularly interested in computational approaches that combine remote sensing, geospatial analysis, and machine learning to improve our understanding of environmental processes and support informed decision-making.
+- How does sea ice break-up and formation affect the movement of goods and people in polar regions?
+- How can we use observable changes in infrastructure and human activity as indicators of changing geopolitical or strategic conditions?
+- How do environmental hazards affect human settlement and migration?
 
-As I continue developing as a researcher, I am expanding my knowledge of Python, geocomputing, and machine learning to improve feature extraction, time-series analysis, and change detection from remotely sensed imagery. 
+Methods I'm developing:
+
+- extracting information from multispectral/SAR imagery
+- detecting changes over time
+- mapping and monitoring infrastructure
+- spatial pattern analysis
+- geocomputing
+- integrating satellite observations with other geospatial datasets
+- using machine learning for classification/detection/prediction
+- analyzing relationships between environmental conditions and human activity
+
+Where I'm headed:
+
+I want to develop the technical ability to use Earth-observation data and computational geospatial methods to investigate questions at the intersection of environmental change, human activity, infrastructure, and geopolitics.
+
+Portfolio Projects:
+
+Please visit my portfolio page to see examples of how I'm currently applying these methods to real-world geographic questions.
