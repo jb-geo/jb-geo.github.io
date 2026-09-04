@@ -5,8 +5,29 @@ redirect_from:
   - /research-interests/
   - /research-interests.html
 ---
-I’m interested in the many different types of information that can be extracted from satellite observations and how that information can tell stories about the events shaping our planet. I have a unique desire to not only understand the technical concepts underpinning remote sensing technologies, but also the complex interplay of human behavior, geography, and environmental processes that define our world.
+I am interested in using remote sensing and geospatial methods to study how physical environments influence human activity, infrastructure, transportation, and geopolitical behavior. 
 
-How does sea ice break-up and formation affect shipping and transportation in arctic regions? Can we help predict future conflict zones based on the development of critical infrastructure like ports, railways, and highways? 
+Research Questions:
 
-To tackle these types of questions, I'm focusing on developing skills and interest in remote sensing, machine learning, geocomputing, geospatial analysis, and geopolitics. I am an avid listener of the Economist's Intelligence podcast and thoroughly enjoy reading books such as The Prisoner's of Geography by Tim Marshall.
+- How does sea ice break-up and formation affect the movement of goods and people in polar regions?
+- How can we use observable changes in infrastructure and human activity as indicators of changing geopolitical or strategic conditions?
+- How do environmental hazards affect human settlement and migration?
+
+Methods I'm developing:
+
+- extracting information from multispectral/SAR imagery
+- detecting changes over time
+- mapping and monitoring infrastructure
+- spatial pattern analysis
+- geocomputing
+- integrating satellite observations with other geospatial datasets
+- using machine learning for classification/detection/prediction
+- analyzing relationships between environmental conditions and human activity
+
+Where I'm headed:
+
+I want to develop the technical ability to use Earth-observation data and computational geospatial methods to investigate questions at the intersection of environmental change, human activity, infrastructure, and geopolitics.
+
+Portfolio Projects:
+
+Please visit my portfolio page to see examples of how I'm currently applying these methods to real-world geographic questions.
