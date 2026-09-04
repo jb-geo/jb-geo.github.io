@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Graduate Certificate in Geographic Infomation Systems, North Carolina State University, 2021
