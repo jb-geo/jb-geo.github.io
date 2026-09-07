@@ -15,17 +15,4 @@ Outside of my professional experience, I have pursued independent remote sensing
 
 I also draw influence from earlier graduate coursework completed in Stockholm, Sweden focused on sustainable urban planning and design. During my semester at KTH (Royal Institute of Technology), I worked on developing comprehensive sustainable planning assessments with local municipalities, which helped me build a foundation for thinking about the relationship between environment, people, infrastructure, and sense of place. The perspectives I developed during this time continue to influence my interest in how spatial systems connect social dynamics, environmental processes, urban development across different scales. 
 
-Technical Toolkit
-======
-**Languages & Analysis**  
-Python · SQL · Spatial Data Analysis
-
-**GIS & Visualization**  
-ArcGIS Pro · ArcGIS Online · Dashboards · StoryMaps · Experience Builder
-
-**Remote Sensing & Geospatial Computing**  
-Earth Observation · SAR Analysis · Geospatial Automation · Environmental Data Workflows
-
-Current Direction
-======
 I am currently expanding my skills in remote sensing methods, computational geospatial methods, and machine learning, with the long-term goal of applying Earth observation data to research on environmental change, human activity, infrastructure, and geopolitical systems.
