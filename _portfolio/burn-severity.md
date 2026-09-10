@@ -10,17 +10,17 @@ This project explores whether satellite observations and a simple machine-learni
 
 CBI provides a field-based measure of ecological fire effects ranging from 0 to 3, from little or no observable effect to high burn severity. Rather than using an existing satellite-derived burn-severity map as the modeling target, this project uses georeferenced CBI observations as an independent reference dataset.
 
-Spectral information derived from Sentinel-2 imagery was extracted at CBI plot locations and used to train a simple decision-tree regression model. Model performance was compared with a baseline linear model using differenced Normalized Burn Ratio (dNBR), a commonly used spectral measure of wildfire effects.
+Spectral information derived from Sentinel-2 imagery was extracted at CBI plot locations and used to train a simple decision-tree regression model. Model performance was compared with a baseline linear model using differenced Normalized Burn Ratio (dNBR).
 
 ## Objectives
 
 ### The primary objectives of this project are to:
-Process and compare pre- and post-fire Sentinel-2 imagery for the 2016 Fuller Fire.
-Calculate spectral indicators of vegetation condition and fire-related change, including NDVI and dNBR.
-Integrate satellite observations with field-measured Composite Burn Index observations.
-Train an interpretable decision-tree regression model to predict CBI from Sentinel-2 spectral characteristics.
-Compare the multi-feature model with a simpler dNBR-only baseline.
-Map predicted burn severity across the Fuller Fire perimeter and evaluate the strengths and limitations of the approach.
+- Process and compare pre- and post-fire Sentinel-2 imagery for the 2016 Fuller Fire.
+- Calculate spectral indicators of vegetation condition and fire-related change, including NDVI and dNBR.
+- Integrate satellite observations with field-measured CBI observations.
+- Train an interpretable decision-tree regression model to predict CBI from Sentinel-2 spectral characteristics.
+- Compare the multi-feature model with a simpler dNBR-only baseline.
+- Map predicted burn severity across the Fuller Fire perimeter and evaluate the strengths and limitations of the approach.
 
 ## Methods
 
