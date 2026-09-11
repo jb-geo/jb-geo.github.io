@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-* Graduate Certificate in Geographic Infomation Systems, North Carolina State University, 2021
-* B.S. in Approprite Technology, Appalachian State University, 2013
+* Graduate Certificate in Geographic Information Systems, North Carolina State University, 2021
+* B.S. in Appropriate Technology, Appalachian State University, 2013
 
 Work experience
 ======
@@ -38,7 +38,7 @@ code for compliance with Section 508 of the Rehabilitation Act.
 * Assisted with long-term research efforts to collect nationwide economic and
 property value data.
 
-**Centeline Communications** - GIS Engineering Technician\
+**Centerline Communications** - GIS Engineering Technician\
 May 2022 - July 2023
 * Produced high-quality maps and design staking packages of fiber optic
 networks for engineering and construction teams.
