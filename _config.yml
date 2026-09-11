@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "/portfolio_photo.jpg"
   name             : "Justin Baker"
-  bio              : "I am a geospatial analyst interested in the intersection of GIScience, remote sensing, and spatial data analysis. <br><br>My experience includes developing geoprocessing workflows, integrating complex spatial datasets, and building tools to support environmental and infrastructure-related decision-making. <br><br>I am currently expanding my skillset in remote sensing and computational geospatial methods, with a growing interest in applying data-driven approaches to analyze large-scale spatial and environmental data."
+  bio              : "Geospatial analyst working with GIS, remote sensing, and spatial data analysis.<br><br>Interested in using Earth observation and computational geospatial methods to study environmental change, infrastructure, and human activity."
   location         : "Durham, NC"
   employer         : "JMT"
   uri              : # URL
