@@ -55,7 +55,7 @@ August 2021 - May 2022
 complex and high priority projects.
 * Referenced as-builts, work management logs, and other documentation to
 update GIS data to reflect completed electric distribution construction.
-* Identified data inconsistencies and communicate with the appropriate
+* Identified data inconsistencies and communicated with the appropriate
 resources to provide accurate data updates to client systems
   
 Resume
