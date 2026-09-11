@@ -19,9 +19,10 @@ Work experience
 ======
 **JMT** - GIS Analyst\
 March 2026 - Present
-* Work directly with customers to identify and document requirements; determine how GIS technology can help meet customer needs and formulate and implement cost-effective GIS-based solutions.
-* Research, develop, and offer innovative approaches to problem solving.
-* Assist with application deployment and testing at client site.
+* Produce GIS-based construction and permitting maps in ArcGIS Pro, integrating utility design information, NCDOT roadway plans, right-of-way boundaries, edge-of-pavement features, and other spatial data supporting infrastructure projects.
+* Support utility construction and NCDOT encroachment permitting through preparation and review of spatial exhibits, permit applications, and supporting documentation.
+* Identify opportunities to improve existing GIS workflows and develop Python-based geoprocessing solutions to automate repetitive spatial analysis and feature-statistics calculations.
+* Contribute to team development and workflow consistency by training and mentoring new staff on GIS procedures, project standards, and established SOPs.
 
 
 **Skeo** - Associate\
