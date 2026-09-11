@@ -13,6 +13,7 @@ redirect_from:
 Education
 ======
 * Graduate Certificate in Geographic Information Systems, North Carolina State University, 2021
+* Graduate Coursework in Sustainable Urban Planning and Design, KTH Royal Institute of Technology, Stockholm, Sweden 2016
 * B.S. in Appropriate Technology, Appalachian State University, 2013
 
 Work experience
