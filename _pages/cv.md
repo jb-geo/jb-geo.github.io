@@ -62,8 +62,3 @@ NC State University GIS Portfolio
 ======
 
 [GIS Graduate Certificate Portfolio](https://jbgis.weebly.com)
-  
-Resume
-======
-[Resume](/files/JB_Resume_Grad.pdf)
-
