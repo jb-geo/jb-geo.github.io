@@ -11,8 +11,8 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Portfolio"
+  - title: "Remote Sensing Projects"
     url: /portfolio/    
     
-  - title: "CV"
-    url: /cv/
+  - title: "Resume"
+    url: /resume/
