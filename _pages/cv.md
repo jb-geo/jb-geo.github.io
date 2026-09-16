@@ -57,6 +57,8 @@ complex and high priority projects.
 update GIS data to reflect completed electric distribution construction.
 * Identified data inconsistencies and communicated with the appropriate
 resources to provide accurate data updates to client systems
+
+[GIS Graduate Certificate Portfolio](https://jbgis.weebly.com)
   
 Resume
 ======
