@@ -60,5 +60,5 @@ resources to provide accurate data updates to client systems
   
 Resume
 ======
-![Resume](/files/JB_Resume_Grad.pdf)
+[Resume](/files/JB_Resume_Grad.pdf)
 
