@@ -61,4 +61,4 @@ resources to provide accurate data updates to client systems
 NC State University GIS Portfolio
 ======
 
-[GIS Graduate Certificate Portfolio](https://jbgis.weebly.com)
+[Click here for examples of my GIS work from my graduate certificate program](https://jbgis.weebly.com)
