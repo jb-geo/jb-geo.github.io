@@ -58,7 +58,8 @@ update GIS data to reflect completed electric distribution construction.
 * Identified data inconsistencies and communicated with the appropriate
 resources to provide accurate data updates to client systems
 
-**Professional Affiliations**
+Professional Affiliations
+======
 United States Geospatial Intelligence Foundation (USGIF), Member | 2025–Present
 
 NC State University GIS Portfolio
