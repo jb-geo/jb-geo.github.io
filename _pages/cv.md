@@ -60,7 +60,7 @@ resources to provide accurate data updates to client systems
 
 Professional Affiliations
 ======
-United States Geospatial Intelligence Foundation (USGIF), Member | 2025–Present
+United States Geospatial Intelligence Foundation (USGIF), Member | 2026–Present
 
 NC State University GIS Portfolio
 ======
