@@ -26,9 +26,7 @@ The analysis is organized into a series of preprocessing and analysis steps.
 
 ### 1. Project Configuration
 
-The notebook defines the project directory, input imagery locations, study-area boundary, output directories, image years, and Sentinel-2 bands.
-
-pathlib.Path is used to manage file paths.
+The project directory, input imagery locations, study-area boundary, output directories, image years, and Sentinel-2 bands are all defined.
 
 ### 2. Study Area Preparation
 
@@ -56,8 +54,8 @@ The resulting GeoTIFF files are stored in the project outputs directory.
 
 NDVI is calculated using the red and near-infrared bands:
 
-NDVI= (NIR−Red)/(NIR+Red)
-	​
+**NDVI = (NIR − Red) / (NIR + Red)**
+
 NDVI provides a simple measure of vegetation activity and allows vegetation patterns to be compared across the study years.
 
 ### 7. Change Detection
