@@ -13,7 +13,7 @@ This project explores the use of Sentinel-1 Synthetic Aperture Radar (SAR) image
 
 ### Research Question
 
-How effectively can Sentinel-1 SAR imagery be used to identify and track seasonal changes in river ice coverage?
+How do Sentinel-1 SAR backscatter patterns and estimated river ice coverage vary throughout the seasonal freeze-up and break-up cycle?
 
 ## Data
 The analysis uses a time series of Sentinel-1 SAR imagery over the Yukon–Tanana confluence. VV-polarized radar backscatter was analyzed within a water-focused area of interest to examine changes in surface conditions through the freeze-up and break-up seasons.
