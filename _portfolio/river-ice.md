@@ -30,7 +30,8 @@ The workflow combined SAR image processing and temporal analysis to estimate cha
 
 ## Key Findings
 
-The analysis identified a clear seasonal pattern in radar backscatter and estimated ice coverage. Within the defined area of interest, classified ice coverage reached approximately 35% during peak freeze conditions.
+The analysis identified a clear seasonal pattern in radar backscatter and estimated ice coverage.
+![Winter Conditions](/images/river-ice/winter_conditions.pdf)
 
 The time series also showed that freeze-up was not represented by a simple, continuous increase in classified ice. An initial increase was followed by a temporary decline before coverage increased again later in the winter, illustrating the dynamic nature of river-ice conditions and the value of repeated observations rather than single-date imagery.
 
